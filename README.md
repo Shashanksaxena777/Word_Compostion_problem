@@ -1,4 +1,4 @@
-## Compounded Words Finder
+## Word Composition Problem
 
 ### Overview
 
